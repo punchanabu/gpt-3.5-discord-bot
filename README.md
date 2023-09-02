@@ -30,11 +30,13 @@
       DISCORD_BOT_TOKEN=your_discord_bot_token
       OPENAI_API_KEY=your_openai_api_key
    ```
+5. Invite your bot to your discord server
 5. Run the bot
    ```bash
       node index.js
    ```
 ## Usage
+- You can type your prompt start with !ask 
    ```bash
       !ask What is the meaning of life?
    ```
