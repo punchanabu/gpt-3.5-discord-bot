@@ -36,7 +36,7 @@
       node index.js
    ```
 ## Usage
-- You can type your prompt start with !ask 
+- You can type your prompt start with !ask in which your bot has the permission to read and send the message
    ```bash
       !ask What is the meaning of life?
    ```
