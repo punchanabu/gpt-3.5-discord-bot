@@ -32,8 +32,6 @@
    ```
 5. Invite your bot to your discord server
 5. Run the bot
-   ```bash
-      node index.js
    ```
 ## Usage
 - You can type your prompt start with !ask. Just make sure the bot has permissions to read and send messages in the channel where you're interacting with it.
